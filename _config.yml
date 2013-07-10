@@ -3,7 +3,7 @@ description:      Developing computational methods to learn more about our micro
 #logo:             site-logo.png
 #disqus_shortname: clementelab
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://clemente-lab.github.com/
+url:              http://clemente-lab.github.com
 
 # Owner/author information
 owner:
