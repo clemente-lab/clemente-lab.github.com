@@ -28,3 +28,10 @@ JSON-based file format for storing general sample by observation contingency
 tables. In addition to the format itself, an API is provided in multiple
 programming languages to support the use of the format in bioinformatics
 software.
+
+## PICRUSt [Website](http://picrust.github.io/picrust/) | [GitHub](https://github.com/picrust/picrust)
+
+PICRUSt (**P**hylogenetic **I**nvestigation of **C**ommunities by
+**R**econstruction of **U**nobserved **St**ates) is a bioinformatics software
+package designed to predict metagenome functional content from marker gene
+(e.g., 16S rRNA) surveys and full genomes.

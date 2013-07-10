@@ -35,7 +35,7 @@ come out of the Clemente Lab. For a full list of publications, check out
     //Optional - Sets whether or not the details of an article should be retrieved
     .retrieveDetails(true) // default = true
     //Optional - Sets whether or not the details of an article should be collapsible
-    .collapsibleDetails(true) // default = false
+    .collapsibleDetails(false) // default = false
     //Optional - Sets whether or not the details of an article should be pre-expanded
     // this only has an effect if collapsibleDetails = true
     .openedDetails(false) // default = true
