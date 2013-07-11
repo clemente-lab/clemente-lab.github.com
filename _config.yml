@@ -1,9 +1,9 @@
 title:            Clemente Lab
-description:      Developing computational methods to learn more about our microbial world.
+description:      Developing computational methods to better understand the microbial world.
 #logo:             site-logo.png
 #disqus_shortname: clementelab
 #Comment out url when working locally to resolve base urls correctly
-url:              http://clemente-lab.github.com
+url:              http://clemente-lab.github.io
 
 # Owner/author information
 owner:
