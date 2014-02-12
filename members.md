@@ -10,7 +10,7 @@ Interested in meeting who's behind the scenes in the Clemente Lab? Look no furth
 
 <figure>
   <img src="{{ site.url }}/images/clemente-lab-photo.jpg" />
-  <figcaption>Lab members (and leader!) from left to right: Jai Ram Rideout, Jose Clemente, Monica Andrade, and Ryan Bernstein.</figcaption>
+  <figcaption>Lab members (and leader!) from left to right: Jai Ram Rideout, Carmen Haro Mariscal, Monica Andrade, and Jose Clemente.</figcaption>
 </figure>
 
 <center>
