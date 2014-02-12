@@ -8,4 +8,4 @@ tags: [opening, openings, position, positions, hire, hiring, job, jobs, employme
 
 We are looking for post-docs and graduate students interested in joining our
 lab. If you would like to find out more about our work or have ideas you would
-like to discuss with us, drop us a line at <clemente.lab@gmail.com>.
+like to discuss with us, feel free to drop us a line!
