@@ -38,7 +38,7 @@ Interested in meeting who's behind the scenes in the Clemente Lab? Look no furth
   </figure>
 
   Associate Bioinformatician<br />
-  GitHub: <a href="https://github.com/jrrideout">@jrrideout</a>
+  GitHub: <a href="https://github.com/jairideout">@jairideout</a>
 
   <h1>Ryan Bernstein</h1>
 
