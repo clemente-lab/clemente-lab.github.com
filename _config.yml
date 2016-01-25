@@ -5,6 +5,10 @@ description:      Developing computational methods to better understand the micr
 #Comment out url when working locally to resolve base urls correctly
 url:              http://clemente-lab.github.io
 
+# Needed for redirection to new website
+gems:
+  - jekyll-redirect-from
+  
 # Owner/author information
 owner:
   name:           Clemente Lab
